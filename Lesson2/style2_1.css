@@ -34,7 +34,6 @@ p{
     font-style: normal;
 }
 .flex{
-    background-color: white;
     display: flex;
     justify-content: space-around;
     align-content: center;

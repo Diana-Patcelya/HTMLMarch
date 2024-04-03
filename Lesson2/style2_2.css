@@ -1,0 +1,20 @@
+.box{
+    background-color: red;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    margin: 40px;
+    transition: 1s;
+}
+.box:hover{
+    background-color: gray;
+    border-radius: 50%;
+    transform: scale(1.2);
+    transition: 1.5s;
+}
+.change{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
