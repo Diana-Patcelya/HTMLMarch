@@ -1,0 +1,44 @@
+.beginning{
+    background-color: dodgerblue;
+    height: 500px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.middle{
+    height: 400px;
+    display: flex;
+}
+
+.end{
+    background-color: dodgerblue;
+    height: 800px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.boxes{
+    background-color: royalblue;
+    height: 350px;
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+p{
+    color: aliceblue;
+    font-size: xxx-large;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
