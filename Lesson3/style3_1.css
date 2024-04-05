@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.hw3{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+h1{
+    margin: 0 50px 50px 50px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+p{
+    margin: 10px;
+    width: 80vw;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+#red{
+    background-color: palevioletred;
+    flex-direction: column
+}
+#blue{
+    background-color: lightskyblue;
+    flex-direction: column
+}
+#green{
+    background-color: darkseagreen;
+    flex-direction: column
+}
