@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    font-family: "Reddit Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.above{
+    height: 50vh;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+
+}
+.below{
+    height: 50vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: aliceblue;
+}
+
+h1{
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+
+p{
+    width: 90vw;
+    text-align:center;
+    font-size: 18px;
+    letter-spacing: -1px;
+}
