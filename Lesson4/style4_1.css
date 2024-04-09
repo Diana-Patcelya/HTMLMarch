@@ -1,0 +1,70 @@
+
+body{
+    font-size: 1.1em;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+div{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 1.1em;
+
+}
+
+.head{
+    width: 20em;
+    height: 25em;
+    flex-direction: column;
+    justify-content: center;
+    border: 0.05em solid #c0c0c0;
+}
+
+.registration{
+    width: 20em;
+    height: 5em;
+    flex-direction: row;
+    border: 0.05em solid #c0c0c0;
+}
+
+img{
+    border: 1px  none;
+    border-radius: 0.5em;
+    padding: 5px;
+    width: 160px;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px;
+}
+
+input{
+    width: 17rem;
+    height: 2rem;
+    border: 0.05em solid #c0c0c0;
+    text-overflow: ellipsis;
+    margin: 0.25em;
+}
+.Logo{
+
+    margin-bottom: 2em;
+}
+.facebook img{
+    width: 1.5em;
+    height: 1.5em;
+}
+button{
+    border: none;
+    border-radius: 0.5em;
+    width: 17.5rem;
+    height: 2em;
+    background-color: dodgerblue;
+    font-size: 1em;
+    color: white;
+    margin-top: 0.5em;
+}
