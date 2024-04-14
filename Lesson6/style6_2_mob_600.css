@@ -1,0 +1,38 @@
+@media screen and (max-width: 600px) {
+    .head {
+        width: 100%;
+        height: 15vh;
+    }
+    .footer{
+        width: 100%;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+    .section_B{
+        background-color: #4F504A;
+        width: 100%;
+        height: 40vh;
+    }
+    .section_C{
+        background-color: #7F816A;
+        width: 33vw;
+        height: 30vh;
+    }
+    .section_D{
+        background-color: #8E8E8E;
+        width: 34vw;
+        height: 30vh;
+    }
+    .section_E{
+        background-color: #61615C;
+        width: 33vw;
+        height: 30vh;
+    }
+    .right {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        height: 15vh;
+    }
+}

@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+header{
+    height: 10vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+nav{
+    width: 10%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 127, 210, 0.71);
+}
+section{
+    height: 40vh;
+    background-color: pink;
+    display: flex;
+    justify-content: flex-end;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+
+}
+article{
+    width: 50%;
+    height: 20vh;
+    background: rgba(225,124,158,0.71);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+footer{
+    height: 10vh;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

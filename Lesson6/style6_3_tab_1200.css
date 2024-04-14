@@ -1,0 +1,15 @@
+@media screen and (min-width: 600px) and (max-width: 1200px) {
+    div {
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        justify-content: center;
+        align-items: stretch;
+        height: 40vh;
+    }
+
+    article {
+        width: 50%;
+        height: 40vh;
+    }
+}
